@@ -1,6 +1,12 @@
 # OpenClassrooms Portfolio Sophie Bluel
 
-Dans ce projet, vous allez apprendre à créer une page web dynamique pour une architecte d'intérieur en utilisant JavaScript et une API. Vous développerez la page de présentation des travaux, gérerez les événements utilisateurs et manipulerez le DOM. Vous créerez une page de connexion pour l'administrateur et une modale pour uploader des médias. Vous mettrez en pratique vos compétences en JavaScript et apprendrez à communiquer avec une API. Les outils utilisés incluent Figma, Visual Studio Code et GitHub.
+## 📝 Contexte du projet
+
+### Historique du développement
+Ce projet a été initialement conçu et développé au cours de l'année 2024, dans le cadre du parcours Intégrateur Web.
+
+### Présentation actuelle
+Il fait aujourd'hui l'objet d'une nouvelle présentation dans le cadre du parcours Développeur d'application React. (D'où la date des commits)
 
 ## 📥 Installation et Lancement
 
